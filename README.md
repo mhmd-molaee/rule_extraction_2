@@ -4,6 +4,6 @@ In this project, genetic algorithm was employed to extract rules from the [provi
 
 First, it is required to run the `dataset.ipynb` to create the `binarized.csv` file, which devides each feature's value range into 3 groups represented by a binary code.
 
-Then, rule `extraction.ipynb` file extracts rules from the new dataset, using genetic algorithm.
+Then, `rule extraction.ipynb` file extracts rules from the new dataset, using genetic algorithm.
 
 
